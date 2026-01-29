@@ -2,3 +2,5 @@ torch
 fastapi
 pydantic
 uvicorn
+numpy
+pandas
